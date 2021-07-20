@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f78afd10b49f8407c9b3098655c485ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - navMeshCutter: {fileID: 3951971891932107745, guid: 397891ff5f8231b4f8563566aaa070d7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

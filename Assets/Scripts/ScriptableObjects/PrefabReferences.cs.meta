@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7cb7859e62ca71c4ab9d2d084a719d3a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - navmeshCutterPrefab: {fileID: 3951971891932107745, guid: 397891ff5f8231b4f8563566aaa070d7, type: 3}
+  - manipulableParticleSystemPrefab: {fileID: 8269503676141524132, guid: d4565c9873ee0e449a73a024318ca127, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ManipObj_Yellow
+  m_Shader: {fileID: -6465566751694194690, guid: 7e780b1b6bc157042b8a00bc660f8407, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_658DDA6:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2D:
+        m_Texture: {fileID: 2800000, guid: ee2523340e7944c4297a80937a51484c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_5E128AA0: 0
+    - Vector1_65D23C24: 0
+    - Vector1_F581B829: 3
+    - _GlowSpeed: 3
+    - _GlowStrength: 0.5
+    - _IsGlowing: 0
+    m_Colors:
+    - Color_149CC227: {r: 0.7924528, g: 0.7924528, b: 0.7924528, a: 0}
+    - Color_3317B5: {r: 2, g: 0, b: 1.607843, a: 0}
+    - Vector3_C4FE4106: {r: 0, g: 0, b: 0, a: 0}
+    - _BaseColor: {r: 0.8773585, g: 0.8096267, b: 0.51731044, a: 0}
+    - _FresnelColor: {r: 1, g: 0.3872941, b: 0, a: 0}
+    - _Offset: {r: 0, g: 0, b: 0, a: 0}
+    - _Tiling: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []

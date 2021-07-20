@@ -1,0 +1,25 @@
+# All names on left will be replaced with ones on right
+|Eric Hovda|,|Eric Hovda|
+|Hillasir|,|Michael Hilliger|
+|Jakob Bjerkness|,|Jakob Bjerkness|
+|Manderson1863|,|Michael Anderson|
+|Mary Benetti|,|Mary Benetti|
+|Quinn Huhnke|,|Quinn Huhnke|
+|Radsethero|,|Jack Olson|
+|Seth Berrier|,|Prof. B|
+|woodn1930|,|Nick Wood|
+|xiongv0386|,|Vichai Xiong|
+
+# All lines containing the regex pattern shown are removed
+remove,\.meta
+remove,Plugins\/GitHub
+remove,Plugins\/AstarPathfindingProject
+remove,Plugins\/TextMesh Pro
+remove,3rdParty\/_Standard Assets
+remove,Plugins\/NaughtyAttributes
+
+# Entires after this time are ignored (start time of SGX)
+timeLimit,1607558400
+
+# Project name displayed in video
+projName,Curse of Janksbury - Unity 3d Project

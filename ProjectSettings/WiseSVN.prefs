@@ -1,0 +1,31 @@
+{
+    "DownloadRepositoryChanges": true,
+    "SvnCLIPath": "",
+    "SvnCLIPathMacOS": "",
+    "EnableAutoLocking": true,
+    "AutoLockMessage": "Auto-locked.",
+    "AutoLockingParameters": [
+        {
+            "TargetFolder": "Assets/Scenes",
+            "TargetTypes": 8,
+            "IncludeTargetMetas": true,
+            "Exclude": []
+        },
+        {
+            "TargetFolder": "Assets/Prefabs",
+            "TargetTypes": -1,
+            "IncludeTargetMetas": true,
+            "Exclude": []
+        },
+        {
+            "TargetFolder": "Assets/Art",
+            "TargetTypes": -1,
+            "IncludeTargetMetas": true,
+            "Exclude": []
+        }
+    ],
+    "EnableBranchesDatabase": false,
+    "BranchesDatabaseScanParameters": [],
+    "PinnedBranches": [],
+    "Exclude": []
+}

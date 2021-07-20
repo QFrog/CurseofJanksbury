@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: b5534a57d40103242b7c6e16907d735b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Inter UI
+  fontNames:
+  - Inter UI
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4acacf9289d6dd2458108b14b78280b1, type: 3}
+  - {fileID: 12800000, guid: 602b0bd34dff1644eb5b7473f179701a, type: 3}
+  - {fileID: 12800000, guid: 8a847cb9075432a4a83c8faf7f1153f2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

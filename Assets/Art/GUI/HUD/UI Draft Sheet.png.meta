@@ -1,0 +1,1444 @@
+fileFormatVersion: 2
+guid: 89467c68f0f048d448779ff109b0dc7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3053893717106857572
+    second: UI Draft Sheet_0
+  - first:
+      213: 7127697038536266801
+    second: UI Draft Sheet_1
+  - first:
+      213: 5139067631723022948
+    second: UI Draft Sheet_2
+  - first:
+      213: 3545335975850814817
+    second: UI Draft Sheet_3
+  - first:
+      213: 7692201004061165528
+    second: UI Draft Sheet_4
+  - first:
+      213: 4361031670697401646
+    second: UI Draft Sheet_5
+  - first:
+      213: -8400909778773277721
+    second: UI Draft Sheet_6
+  - first:
+      213: 405593527917276244
+    second: UI Draft Sheet_7
+  - first:
+      213: 5323827277163858289
+    second: UI Draft Sheet_8
+  - first:
+      213: -7152053787150952078
+    second: UI Draft Sheet_9
+  - first:
+      213: 2694359461146179194
+    second: UI Draft Sheet_10
+  - first:
+      213: 1006171988594450006
+    second: UI Draft Sheet_11
+  - first:
+      213: -4302322454622148115
+    second: UI Draft Sheet_12
+  - first:
+      213: 3369137239128291339
+    second: UI Draft Sheet_13
+  - first:
+      213: 8177153516975620221
+    second: UI Draft Sheet_14
+  - first:
+      213: -5840263072781957908
+    second: UI Draft Sheet_15
+  - first:
+      213: -1127675377046553073
+    second: UI Draft Sheet_16
+  - first:
+      213: 3075632864779052166
+    second: UI Draft Sheet_17
+  - first:
+      213: -2566924476366580815
+    second: UI Draft Sheet_18
+  - first:
+      213: 7230995796619702322
+    second: UI Draft Sheet_19
+  - first:
+      213: -1382316511169376354
+    second: UI Draft Sheet_20
+  - first:
+      213: 3894085893775285323
+    second: UI Draft Sheet_21
+  - first:
+      213: 1120711993464880665
+    second: UI Draft Sheet_22
+  - first:
+      213: 6884170436729311920
+    second: UI Draft Sheet_23
+  - first:
+      213: -1097308265286408757
+    second: UI Draft Sheet_24
+  - first:
+      213: 6520082153531083231
+    second: UI Draft Sheet_25
+  - first:
+      213: -2306646149037911368
+    second: UI Draft Sheet_26
+  - first:
+      213: -1365305827538321499
+    second: UI Draft Sheet_27
+  - first:
+      213: -1798188174076303766
+    second: UI Draft Sheet_28
+  - first:
+      213: -8617480771680434090
+    second: UI Draft Sheet_29
+  - first:
+      213: -8407449957166342431
+    second: UI Draft Sheet_30
+  - first:
+      213: -4158105455961050386
+    second: UI Draft Sheet_31
+  - first:
+      213: 4089503176190903778
+    second: UI Draft Sheet_32
+  - first:
+      213: 7860088103950834351
+    second: UI Draft Sheet_33
+  - first:
+      213: 3299730666224275151
+    second: UI Draft Sheet_34
+  - first:
+      213: -9165928352117676798
+    second: UI Draft Sheet_35
+  - first:
+      213: -4798141075687868514
+    second: UI Draft Sheet_36
+  - first:
+      213: 2358401600069502473
+    second: UI Draft Sheet_37
+  - first:
+      213: -8028687200100970711
+    second: UI Draft Sheet_38
+  - first:
+      213: 2363694126155968173
+    second: UI Draft Sheet_39
+  - first:
+      213: 1389997556241581806
+    second: UI Draft Sheet_40
+  - first:
+      213: 7124253041308037225
+    second: UI Draft Sheet_41
+  - first:
+      213: 625603817455117778
+    second: UI Draft Sheet_42
+  - first:
+      213: 8039772820210481480
+    second: UI Draft Sheet_43
+  - first:
+      213: 6525497424191108070
+    second: UI Draft Sheet_44
+  - first:
+      213: -2506831430918137633
+    second: UI Draft Sheet_45
+  - first:
+      213: 4661587283289636688
+    second: UI Draft Sheet_46
+  - first:
+      213: 6102493564328742267
+    second: UI Draft Sheet_47
+  - first:
+      213: 5495419699562053242
+    second: UI Draft Sheet_48
+  - first:
+      213: -2230188864760490053
+    second: UI Draft Sheet_49
+  - first:
+      213: -2243381296806478881
+    second: UI Draft Sheet_50
+  - first:
+      213: 826028340735075860
+    second: UI Draft Sheet_51
+  - first:
+      213: 6894474186904543818
+    second: UI Draft Sheet_52
+  - first:
+      213: 5674603268142704630
+    second: UI Draft Sheet_53
+  - first:
+      213: 5941556000688346408
+    second: UI Draft Sheet_54
+  - first:
+      213: 201880930593220503
+    second: UI Draft Sheet_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI Draft Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2187
+        width: 190
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46693fdc72c916a20800000000000000
+      internalID: 3053893717106857572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2211
+        width: 1250
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134de8041baaae260800000000000000
+      internalID: 7127697038536266801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2209
+        width: 1252
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a0f8978c2a15740800000000000000
+      internalID: 5139067631723022948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2062
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d200a3940933130800000000000000
+      internalID: 3545335975850814817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 2079
+        width: 752
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d9522e23f758c30800000000000000
+      internalID: 4361031670697401646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2077
+        width: 756
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e30d1ee019f96b80800000000000000
+      internalID: -8400909778773277721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1903
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ce4ba2a25f0a500800000000000000
+      internalID: 405593527917276244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1935
+        width: 752
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17903e4a3b802e940800000000000000
+      internalID: 5323827277163858289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1583
+        width: 231
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76b4d297a9446520800000000000000
+      internalID: 2694359461146179194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1604
+        width: 272
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ede1bb714a6fd00800000000000000
+      internalID: 1006171988594450006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1518
+        width: 245
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de96f0fa5841b44c0800000000000000
+      internalID: -4302322454622148115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 149
+        width: 1728
+        height: 1649
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0838c1f77491ce20800000000000000
+      internalID: 3369137239128291339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 149
+        width: 1729
+        height: 1649
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d700b2d9cc51b7170800000000000000
+      internalID: 8177153516975620221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 5169
+        y: 147
+        width: 1728
+        height: 1648
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce40008ada733fea0800000000000000
+      internalID: -5840263072781957908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1406
+        width: 231
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e7f212831b950f0800000000000000
+      internalID: -1127675377046553073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1424
+        width: 271
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6842cac8bc7deaa20800000000000000
+      internalID: 3075632864779052166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1350
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b31ae4f9c3706cd0800000000000000
+      internalID: -2566924476366580815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1406
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2303cd59d58a95460800000000000000
+      internalID: 7230995796619702322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1350
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f8798f47601dce0800000000000000
+      internalID: -1382316511169376354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1350
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cd5571d729a0630800000000000000
+      internalID: 3894085893775285323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1349
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e7ef9ce919d8f00800000000000000
+      internalID: 1120711993464880665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1349
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b21f7ec98c798f50800000000000000
+      internalID: 6884170436729311920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1379
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5e08e42f395c0f0800000000000000
+      internalID: -1097308265286408757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1349
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9859b7c2cfb7a50800000000000000
+      internalID: 6520082153531083231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1101
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b292107c852dffd0800000000000000
+      internalID: -2306646149037911368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1103
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afbec365957d0de0800000000000000
+      internalID: -1365305827538321499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1101
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66afd4026d8b07e0800000000000000
+      internalID: -1798188174076303766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1103
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6588a3145ee886880800000000000000
+      internalID: -8617480771680434090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1100
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee1a3cfeccb25b80800000000000000
+      internalID: -8407449957166342431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1103
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2f3de4e117b46c0800000000000000
+      internalID: -4158105455961050386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1103
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5c0bcb875d0c830800000000000000
+      internalID: 4089503176190903778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1074
+        width: 359
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa534b6c74a41d60800000000000000
+      internalID: 7860088103950834351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1007
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcec2c6ee8ffacd20800000000000000
+      internalID: 3299730666224275151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1007
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20528571ab41cc080800000000000000
+      internalID: -9165928352117676798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1007
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97f9610d14996db0800000000000000
+      internalID: -4798141075687868514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1007
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9060bd982c9bab020800000000000000
+      internalID: 2358401600069502473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1007
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f8141878f549090800000000000000
+      internalID: -8028687200100970711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1005
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae243bc8478dc020800000000000000
+      internalID: 2363694126155968173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1007
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6c072b9634a4310800000000000000
+      internalID: 1389997556241581806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 917
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9607929256e6ed260800000000000000
+      internalID: 7124253041308037225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 916
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d56a8d7b579ea800800000000000000
+      internalID: 625603817455117778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 917
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8497c7f88c2039f60800000000000000
+      internalID: 8039772820210481480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 917
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e333af65593f8a50800000000000000
+      internalID: 6525497424191108070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 917
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd817586812f53dd0800000000000000
+      internalID: -2506831430918137633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 917
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ff4fd9fe841b040800000000000000
+      internalID: 4661587283289636688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 917
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d0ce9709960b450800000000000000
+      internalID: 6102493564328742267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 931
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e741cc917a34c40800000000000000
+      internalID: 5495419699562053242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 929
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb75be52b07cc01e0800000000000000
+      internalID: -2230188864760490053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 829
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb3814b898edd0e0800000000000000
+      internalID: -2243381296806478881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 827
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4166bef3664a67b00800000000000000
+      internalID: 826028340735075860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 829
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42ab879eb71eaf50800000000000000
+      internalID: 6894474186904543818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 829
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7aae66b9d30ce40800000000000000
+      internalID: 5674603268142704630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 816
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8259e12f3b5a47250800000000000000
+      internalID: 5941556000688346408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Draft Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 814
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7972fe203a93dc200800000000000000
+      internalID: 201880930593220503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
